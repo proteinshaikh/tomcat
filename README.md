@@ -13,7 +13,6 @@ syntax:
 pom.xml
 `````
     <properties>
-        <java.version>1.8</java.version>
         <start-class>com.tomcat.tomcat.TomcatApplication</start-class>
     </properties>
 ``````
